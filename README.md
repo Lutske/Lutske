@@ -9,6 +9,10 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - Tame your Llama, run AI in Java
 
 ## Conferences
+- [Upcoming] NewCrafts 2025
+- Voxxed Days Luxembourg 2025
+- J-Spring 2025
+- JNation 2025
 - J on the beach 2025
 - Voxxed Days Amsterdam 2025
 - WeAreDevelopers World Congress 2024
