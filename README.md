@@ -9,6 +9,7 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - Tame your Llama, run AI in Java
 
 ## Conferences
+- [Upcoming] Jfokus 2026
 - [Upcoming] NewCrafts 2025
 - Voxxed Days Luxembourg 2025
 - J-Spring 2025
@@ -29,6 +30,7 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - DevOpsDays Amsterdam 2023
 
 ## Meet-ups
+- Utrecht JUG
 - WebDev Zwolle
 - JUGNoord
 
@@ -42,8 +44,11 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - https://shiftmag.dev/engineer-explains-3-minute-crash-course-on-machine-learning-4226/
 
 ## Articles
-Stay tuned, coming soon!
+- Dutch Java Magazine: Your Guide to JUGS -> page 16, 17, 18
+- [JavaPRO: Java 24: A Story of Code, Conflict, and Conquer](https://javapro.io/2025/08/27/java-24-a-story-of-code-conflict-and-conquer/)
+- [JavaPRO: Tame Your llama, run AI in Java](https://javapro.io/wp-content/uploads/2025/09/JavaPRO_03_2025_1.pdf)
 
 ## Mentions
 - https://blog.jetbrains.com/idea/2024/05/java-annotated-monthly-may-2024/
 - https://blog.jetbrains.com/idea/2024/09/top-12-podcasts-for-java-developers-in-2024/
+- https://nljug.org/foojay/foojay-podcast-69-all-things-java-at-voxxeddays-amsterdam/
