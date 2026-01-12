@@ -7,10 +7,13 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - Machine Learning 102: How to deploy on AWS production?
 - Java 24: A story about code, conflicts and conquer
 - Tame your Llama, run AI in Java
+- AI without spaghetti: Clean architecture in the age of AI
 
 ## Conferences
+- [Upcoming] JCON 2026
+- [Upcoming] Voxxed days Zürich 2026
 - [Upcoming] Jfokus 2026
-- [Upcoming] NewCrafts 2025
+- NewCrafts 2025
 - Voxxed Days Luxembourg 2025
 - J-Spring 2025
 - JNation 2025
@@ -44,7 +47,7 @@ Full stack engineer at Craftsmen. Community builder (organizing events for Apeld
 - https://shiftmag.dev/engineer-explains-3-minute-crash-course-on-machine-learning-4226/
 
 ## Articles
-- Dutch Java Magazine: Your Guide to JUGS -> page 16, 17, 18
+- [Dutch Java Magazine: Your Guide to JUGS](https://online.fliphtml5.com/chjal/ucim/#p=16)
 - [JavaPRO: Java 24: A Story of Code, Conflict, and Conquer](https://javapro.io/2025/08/27/java-24-a-story-of-code-conflict-and-conquer/)
 - [JavaPRO: Tame Your llama, run AI in Java](https://javapro.io/wp-content/uploads/2025/09/JavaPRO_03_2025_1.pdf)
 
